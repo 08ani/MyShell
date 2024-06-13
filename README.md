@@ -1,2 +1,2 @@
 # MyShell
- Comman-Line Shell akin to Bash or ZSH
+User-friendly command-line shell, akin to bash or zsh with interactive and batch modes.
